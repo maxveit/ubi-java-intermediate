@@ -1,1 +1,1 @@
-demo/ubi-java-intermediate:latest
+image-registry.openshift-image-registry.svc:5000/demo/ubi-java-intermediate
