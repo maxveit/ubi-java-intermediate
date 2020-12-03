@@ -2,9 +2,9 @@
 
 maven_goals="install"
 
-image_name="alpine"
+image_name="ubi-java-intermediate"
 image_tag="latest"
-image_namespace="quay"
+image_namespace="cicd"
 
 #deployment_create="true"
 #deplyoment_namespace="stocktrader"
